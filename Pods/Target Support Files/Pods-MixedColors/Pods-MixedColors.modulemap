@@ -1,0 +1,6 @@
+framework module Pods_MixedColors {
+  umbrella header "Pods-MixedColors-umbrella.h"
+
+  export *
+  module * { export * }
+}
